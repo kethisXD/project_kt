@@ -47,3 +47,8 @@ format = %h %l %t "%r" %>s %b
 
  
 
+Язык программирования: Python
+Веб-фреймворк: jango
+База данных:MySQL 
+Модуль для парсинга логов: apache-log-parser
+Конфигурация через файл: configparser

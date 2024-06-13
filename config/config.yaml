@@ -1,0 +1,8 @@
+files_dir: "apache/logs"
+ext: "log"
+format: '%h %l %u %t \"%r\" %>s %b'
+db:
+  host: "localhost"
+  user: "serata"
+  password: "serata"
+  database: "Cool_logs.bd"
